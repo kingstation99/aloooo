@@ -820,3 +820,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.12-07.42.16:566][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
 [2019.10.12-07.42.16:701][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2019.10.12-07.42.18:423][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.12-07.58.52:967][108]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-07.58.53:271][109]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-08.01.57:152][658]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-08.01.57:467][659]LogInit: XAudio2 using 'Speakers (ASUS Xonar DG Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.12-08.02.57:364][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
