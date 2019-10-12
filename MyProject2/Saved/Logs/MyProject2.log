@@ -748,3 +748,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.12-07.42.09:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
 [2019.10.12-07.42.09:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
 [2019.10.12-07.42.10:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.10.12-07.42.10:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.10.12-07.42.10:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.10.12-07.42.10:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.10.12-07.42.10:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.10.12-07.42.10:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.10.12-07.42.10:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.10.12-07.42.10:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.10.12-07.42.10:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.10.12-07.42.10:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.10.12-07.42.10:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.10.12-07.42.10:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.10.12-07.42.11:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.10.12-07.42.11:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.10.12-07.42.11:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.10.12-07.42.11:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.10.12-07.42.11:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.10.12-07.42.11:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.10.12-07.42.11:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.10.12-07.42.11:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.10.12-07.42.11:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.10.12-07.42.11:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.10.12-07.42.11:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.10.12-07.42.11:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.10.12-07.42.11:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.10.12-07.42.11:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.10.12-07.42.11:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.10.12-07.42.12:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.10.12-07.42.12:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.10.12-07.42.12:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.10.12-07.42.13:129][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.10.12-07.42.13:260][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2019.10.12-07.42.13:278][  0]LogSavePackage: Moving 'C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Saved/Floor_400x4007363123B42AA506C3480AFABFE3A6FCE.tmp' to 'C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.10.12-07.42.13:282][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2019.10.12-07.42.13:284][  0]Cmd: MAP LOAD FILE="C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.12-07.42.13:285][  0]LightingResults: New page: Lighting Build
+[2019.10.12-07.42.13:290][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.12-07.42.13:290][  0]MapCheck: New page: Map Check
+[2019.10.12-07.42.13:290][  0]LightingResults: New page: Lighting Build
+[2019.10.12-07.42.13:315][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.12-07.42.14:235][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.12-07.42.14:250][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.12-07.42.14:276][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.12-07.42.14:276][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.12-07.42.14:276][  0]MapCheck: Map check complete: ٠ Error(s), ٠ Warning(s), took ٠٫١٦١ms to complete.
+[2019.10.12-07.42.14:276][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.992
+[2019.10.12-07.42.14:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-07.42.14:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-07.42.14:574][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-07.42.14:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.12-07.42.14:639][  0]LogCollectionManager: Loaded 0 collections in 0.003231 seconds
+[2019.10.12-07.42.14:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Saved/Collections/' took 0.00s
+[2019.10.12-07.42.14:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/Developers/Gamer/Collections/' took 0.00s
+[2019.10.12-07.42.14:782][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gamer/Documents/GitHub/aloooo/MyProject2/Content/Collections/' took 0.00s
+[2019.10.12-07.42.14:782][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.12-07.42.14:792][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2863 classes and 680 folders.
+[2019.10.12-07.42.14:803][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.12-07.42.15:431][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.12-07.42.15:494][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.12-07.42.15:643][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.12-07.42.15:645][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.12-07.42.15:648][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2019.10.12-07.42.15:694][  0]LogSlate: Took 0.029577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.12-07.42.15:880][  0]LogRenderer: Reallocating scene render targets to support 1020x500 Format 10 NumSamples 1 (Frame:1).
+[2019.10.12-07.42.15:929][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.12-07.42.16:499][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.12-07.42.16:499][  0]LogLoad: (Engine Initialization) Total time: 40.38 seconds
+[2019.10.12-07.42.16:499][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.12-07.42.16:563][  0]LogAssetRegistry: Asset discovery search completed in 35.5225 seconds
+[2019.10.12-07.42.16:566][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.10.12-07.42.16:566][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.10.12-07.42.16:701][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.12-07.42.18:423][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
